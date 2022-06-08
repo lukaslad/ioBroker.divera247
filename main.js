@@ -14,7 +14,7 @@ internalAlarmData['alarmClosed'] = true;
 internalAlarmData['lastAlarmUpdate'] = 0;
 
 
-const pollIntervallSeconds = 15;
+const pollIntervallSeconds = 5;
 
 const dataPoints = [{
 	'id': 'alarm',
